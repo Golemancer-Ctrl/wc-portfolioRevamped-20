@@ -8,7 +8,7 @@ function Page() {
             <h1> My Name, as title for the portfolio </h1>
             (header and navbar featured over a professional banner image, using CSS)
             <nav> 
-                Navbar, including About Me, Portfolio, Resume, and Contact Info sections
+                Navbar, including About Me, Portfolio, and Contact Info sections
             </nav>
 
             <img src={portrait} className="profile-picture" alt="portrait" />
